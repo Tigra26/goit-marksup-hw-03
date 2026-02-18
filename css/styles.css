@@ -301,7 +301,7 @@ img {
 .portfolio-item-wrapper {
   border: 1px solid #e7e9fc;
   border-top: none;
-  padding: 32px 0;
+  padding: 32px 16px;
 }
 
 /* Footer styles */
